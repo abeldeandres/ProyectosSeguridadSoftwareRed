@@ -1,0 +1,9 @@
+
+ Nombre fichero:01.crt
+ Certificado 01.crt recibido NO protege sitio Web!!
+ Nombre fichero:02.crt
+ Certificado 02.crt recibido NO protege sitio Web!!
+ Nombre fichero:03.crt
+ Certificado 03.crt recibido protege sitio Web
+ Nombre fichero:04.crt
+ Certificado 04.crt recibido NO protege sitio Web!!

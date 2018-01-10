@@ -1,0 +1,5 @@
+Wifi direct lleva incorporado sistemas de seguridad con WPA
+Redes adhoc- los usuarios se conectan directamente (wifi direct)
+Redes infraestructura- existe un punto adiccional entre los dispositivos, un punto intermedio. 
+Al ser punto intermedio los dispositivos deben asociarse al punto de acceso.
+

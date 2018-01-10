@@ -1,0 +1,3 @@
+
+ Certificado 03.crt NO revocado
+ Fichero CRL crl.pem HA SIDO FIRMADO POR LA CA
